@@ -1,0 +1,2 @@
+easySqlite3
+litecli

@@ -1,0 +1,577 @@
+Clipam Logfile
+2019-07-27 20:23:38.494007
+Directory Creation Was Successful For Directory: /data 
+Building Database: ipdb.sql @: /data/ 
+Clipam Logfile
+2019-07-27 20:39:50.521715
+Clipam Logfile
+2019-07-27 20:40:45.449609
+1.1.1.1255.255.255.0giga.ios.uno
+Clipam Logfile
+2019-07-27 20:41:20.677240
+1.1.1.1 255.255.255.0 giga.ios.uno
+Clipam Logfile
+2019-07-27 20:41:51.634463
+Device Entry: 
+1.1.1.1 255.255.255.0 giga.ios.uno
+Clipam Logfile
+2019-07-27 20:42:42.141126
+Device Entry: 
+ IP  NETMASK  DEVICE  
+1.1.1.1 255.255.255.0 giga.ios.uno
+Clipam Logfile
+2019-07-27 20:43:06.573187
+Device Entry: 
+ IP    NETMASK    DEVICE  
+1.1.1.1 255.255.255.0 giga.ios.uno
+Clipam Logfile
+2019-07-27 20:43:33.940491
+Device Entry: 
+   IP      NETMASK      DEVICE  
+1.1.1.1 255.255.255.0 giga.ios.uno
+Clipam Logfile
+2019-07-28 13:05:25.564737
+Clipam Help Menu
+clipam <ip addr> <netmask> <hostname> <comment>
+clipam 1.1.1.1 255.255.255.0 giga.ios.devicename CoreRouter
+Input IP Address: Input Netmask: Input IP Address: Clipam Help Menu
+clipam <ip addr> <netmask> <hostname> <comment>
+clipam 1.1.1.1 255.255.255.0 giga.ios.devicename CoreRouter
+Clipam Logfile
+2019-07-28 13:12:42.875249
+Clipam Logfile
+2019-07-28 13:14:43.618087
+Clipam Logfile
+2019-07-28 13:14:50.258417
+1.1.1.1
+1.1.1.1
+Clipam Logfile
+2019-07-28 14:11:49.875050
+Clipam Logfile
+2019-07-28 14:12:15.508386
+Clipam Logfile
+2019-07-28 14:13:17.002845
+Device Entry: 
+   IP      NETMASK      DEVICE  
+1.1.1.1 255.255.255.0 giga.ios
+Clipam Logfile
+2019-07-28 14:20:15.682174
+Device Entry: 
+   IP      NETMASK      DEVICE  
+2.2.2.2 255.255.255.0 giga.ros.core
+Clipam Help Menu
+clipam <ip addr> <netmask> <hostname> <comment>
+clipam 1.1.1.1 255.255.255.0 giga.ios.devicename CoreRouter
+Clipam Help Menu
+clipam <ip addr> <netmask> <hostname> <comment>
+clipam 1.1.1.1 255.255.255.0 giga.ios.devicename CoreRouter
+Usage: myapp.py [options]
+
+Options:
+  -h, --help            show this help message and exit
+  -i IPADDR, --ipaddr=IPADDR
+                        Device IP Address
+  -n NETMASK, --netmask=NETMASK
+                        Device Netmask
+  -d DEVICE, --device=DEVICE
+                        Device Hostname
+  -c COMMENT, --comment=COMMENT
+                        Device Comment Or Description
+10.10.10.1
+usage: newapp.py [-h] [-i IPADDR] [-n NETMASK] -d DEVICE [-c COMMENT]
+                 [-f FIND] [-r REMOVE]
+
+optional arguments:
+  -h, --help            show this help message and exit
+  -i IPADDR, --ipaddr IPADDR
+                        Device IP Address
+  -n NETMASK, --netmask NETMASK
+                        Device Netmask
+  -d DEVICE, --device DEVICE
+                        Device Hostname
+  -c COMMENT, --comment COMMENT
+                        Device Comments Or Description
+  -f FIND, --find FIND  Find Device
+  -r REMOVE, --remove REMOVE
+                        Remove Device
+Clipam Help Menu
+clipam <ip addr> <netmask> <hostname> <comment>
+clipam 1.1.1.1 255.255.255.0 giga.ios.devicename CoreRouter
+Clipam Help Menu
+clipam <ip addr> <netmask> <hostname> <comment>
+clipam 1.1.1.1 255.255.255.0 giga.ios.devicename CoreRouter
+Clipam Help Menu
+clipam <ip addr> <netmask> <hostname> <comment>
+clipam -i 1.1.1.1 -n 255.255.255.0 -d giga.ios.devicename -c CoreRouter
+Clipam Help Menu
+clipam <ip addr> <netmask> <hostname> <comment>
+clipam -i 1.1.1.1 -n 255.255.255.0 -d giga.ios.devicename -c CoreRouter
+4.4.4.4
+Clipam Help Menu
+clipam <ip addr> <netmask> <hostname> <comment>
+clipam -i 1.1.1.1 -n 255.255.255.0 -d giga.ios.devicename -c CoreRouter
+Clipam Help Menu
+clipam <ip addr> <netmask> <hostname> <comment>
+clipam -i 1.1.1.1 -n 255.255.255.0 -d giga.ios.devicename -c CoreRouter
+Clipam Help Menu
+clipam <ip addr> <netmask> <hostname> <comment>
+clipam -i 1.1.1.1 -n 255.255.255.0 -d giga.ios.devicename -c CoreRouter
+Clipam Help Menu
+clipam <ip addr> <netmask> <hostname> <comment>
+clipam -i 1.1.1.1 -n 255.255.255.0 -d giga.ios.devicename -c CoreRouter
+Clipam Logfile
+2019-08-14 13:02:51.396447
+Clipam Logfile
+2019-08-14 13:02:55.457287
+Device Entry: 
+   IP      NETMASK      DEVICE  
+5.5.5.5 255.255. devi.uno
+Clipam Logfile
+2019-08-14 13:05:51.456906
+Device Entry: 
+   IP      NETMASK      DEVICE  
+7.7.7.7 355 devuno
+Clipam Help Menu
+clipam <ip addr> <netmask> <hostname> <comment>
+clipam -i 1.1.1.1 -n 255.255.255.0 -d giga.ios.devicename -c CoreRouter
+Clipam Help Menu
+clipam <ip addr> <netmask> <hostname> <comment>
+clipam -i 1.1.1.1 -n 255.255.255.0 -d giga.ios.devicename -c CoreRouter
+Clipam Logfile
+2019-08-15 10:06:53.185123
+Device Entry: 
+   IP      NETMASK      DEVICE  
+6.6.6.6 255.255 dork
+FiberInventory Logfile
+2019-10-31 14:44:10.031573
+Directory Creation Has Failed For Directory: /data 
+Building Database: fiber.sql @: /data/ 
+Clipam Logfile
+2019-10-31 14:44:32.418304
+Clipam Logfile
+2019-10-31 14:44:38.964119
+Device Entry: 
+   IP      NETMASK      DEVICE  
+rubberstamp 4235345 18
+FiberInventory Logfile
+2019-10-31 14:47:18.217273
+Directory Creation Has Failed For Directory: /data 
+Building Database: fiber.sql @: /data/ 
+Clipam Logfile
+2019-10-31 14:50:52.993237
+Device Entry: 
+   Item      Part Number      Item Count  
+test 123 34
+FiberInventory Logfile
+2019-10-31 14:51:18.703061
+Directory Creation Has Failed For Directory: /data 
+Building Database: fiber.sql @: /data/ 
+Clipam Logfile
+2019-10-31 14:52:43.262020
+Device Entry: 
+   Item      Part Number      Item Count  
+ZNTS-2728A1 344 2NID-GPON-2728A1-NA
+Clipam Logfile
+2019-10-31 14:55:08.964208
+Device Entry: 
+   Item      Part Number      Item Count  
+CNpilot-R201 86 C000000L028A
+FiberInventory Logfile
+2019-10-31 14:56:09.458309
+Directory Creation Has Failed For Directory: /data 
+Building Database: fiber.sql @: /data/ 
+Clipam Logfile
+2019-10-31 14:57:30.726344
+Device Entry: 
+   Item      Part Number      Item Count  
+ZNTS-2728A1 344 ZNID-GPON-2728A1-NA
+Clipam Logfile
+2019-10-31 14:58:20.448893
+Device Entry: 
+   Item      Part Number      Item Count  
+CNPILOT-R201 86 C000000L028A
+FiberInventory Logfile
+2019-10-31 17:08:22.882219
+Directory Creation Has Failed For Directory: /data 
+Building Database: fiber.sql @: /data/ 
+Clipam Logfile
+2019-10-31 17:09:05.723071
+Device Entry: 
+   Item      Part Number      Item Count  
+ZNTS-2728A1 344 ZNID-GPON-2728A1-NA
+Clipam Logfile
+2019-10-31 17:09:29.961180
+Device Entry: 
+   Item      Part Number      Item Count  
+CNPILOT-R201 86 C000000L028A
+FiberInventory Logfile
+2019-10-31 17:10:18.563108
+Directory Creation Has Failed For Directory: /data 
+Building Database: fiber.sql @: /data/ 
+Clipam Logfile
+2019-10-31 17:10:27.658638
+Device Entry: 
+   Item      Part Number      Item Count  
+CNPILOT-R201 C000000L028A 86
+Clipam Logfile
+2019-10-31 17:10:37.413063
+Device Entry: 
+   Item      Part Number      Item Count  
+ZNTS-2728A1 ZNID-GPON-2728A1-NA 344
+FiberInventory Logfile
+2019-10-31 17:14:21.109805
+Directory Creation Has Failed For Directory: /data 
+Building Database: fiber.sql @: /data/ 
+Clipam Logfile
+2019-10-31 17:14:40.743025
+Device Entry: 
+   Item      Part Number      Item Count  
+CNPILOT-R201 C000000L028A 86
+Clipam Logfile
+2019-10-31 17:15:10.121014
+Device Entry: 
+   Item      Part Number      Item Count  
+ZNTS-2728A1 344 ZNID-GPON-2728A1-NA
+Clipam Logfile
+2019-10-31 17:16:46.110846
+Device Entry: 
+   Item      Part Number      Item Count  
+ZNTS-2728A1 ZNID-GPON-2728A1-NA 344
+Clipam Logfile
+2019-10-31 17:18:34.520325
+Device Entry: 
+   Item      Part Number      Item Count  
+LC-SC-UPC-3M-SMF-D 40222 16
+Clipam Logfile
+2019-10-31 17:19:17.428433
+Device Entry: 
+   Item      Part Number      Item Count  
+SC-SC-UPC-2M-SMF-D 42129 3
+Clipam Logfile
+2019-10-31 17:19:51.051395
+Device Entry: 
+   Item      Part Number      Item Count  
+LC-SC-UPC-3M-SMF-D 40221 1
+Clipam Logfile
+2019-10-31 17:20:17.813258
+Device Entry: 
+   Item      Part Number      Item Count  
+SC-SC-UPC-5M-SMF-D 40259 8
+Clipam Logfile
+2019-10-31 17:20:35.265231
+Device Entry: 
+   Item      Part Number      Item Count  
+SC-SC-UPC-1M-SMF-D 40234 8
+Clipam Logfile
+2019-10-31 17:20:48.502035
+Device Entry: 
+   Item      Part Number      Item Count  
+SC-SC-UPC-3M-SMF-D 40237 5
+Clipam Logfile
+2019-10-31 17:21:11.090868
+Device Entry: 
+   Item      Part Number      Item Count  
+SC-SC-UPC-10M-SMF-D 40255 4
+Clipam Logfile
+2019-10-31 17:21:32.307657
+Device Entry: 
+   Item      Part Number      Item Count  
+LC-LC-UPC-1M-MMF-D 40180 6
+Clipam Logfile
+2019-10-31 17:21:59.812552
+Device Entry: 
+   Item      Part Number      Item Count  
+SC-SC-APC-1M-SMF-S 42676 22
+Clipam Logfile
+2019-10-31 17:22:38.368295
+Device Entry: 
+   Item      Part Number      Item Count  
+SC-SC-APC-3M-SMF-S 41927 8
+Clipam Logfile
+2019-10-31 17:22:53.068376
+Device Entry: 
+   Item      Part Number      Item Count  
+SC-SC-APC-2M-SMF-S 41917 1
+Clipam Logfile
+2019-10-31 17:23:20.225108
+Device Entry: 
+   Item      Part Number      Item Count  
+SC-APC-1M-SMF-Pigtail 42472 5
+Clipam Logfile
+2019-10-31 17:24:12.284917
+Device Entry: 
+   Item      Part Number      Item Count  
+12F-SC-APC-Pigtail US20180313011 7
+Clipam Logfile
+2019-10-31 17:24:40.771861
+Device Entry: 
+   Item      Part Number      Item Count  
+SC-APC-BULKHEAD 48491 1
+Clipam Logfile
+2019-10-31 17:25:18.863296
+Device Entry: 
+   Item      Part Number      Item Count  
+12F-LC-APC-1M-SMF-Pigtail 42417 1
+Clipam Logfile
+2019-10-31 17:25:55.918114
+Device Entry: 
+   Item      Part Number      Item Count  
+12C-APC-SC-3M-SMF-Pigtail SP-12SCASM3 2
+Clipam Logfile
+2019-10-31 17:26:29.137121
+Device Entry: 
+   Item      Part Number      Item Count  
+Splitter-1x2 11519 9
+Clipam Logfile
+2019-10-31 17:26:43.873248
+Device Entry: 
+   Item      Part Number      Item Count  
+Splitter-1x4 11521 9
+Clipam Logfile
+2019-10-31 17:27:01.245689
+Device Entry: 
+   Item      Part Number      Item Count  
+Splitter-1x8 11524 15
+Clipam Logfile
+2019-10-31 17:27:12.791009
+Device Entry: 
+   Item      Part Number      Item Count  
+Splitter-1x16 11526 9
+Clipam Logfile
+2019-10-31 17:27:25.399676
+Device Entry: 
+   Item      Part Number      Item Count  
+Splitter-1x32 11528 14
+Clipam Logfile
+2019-10-31 17:27:54.059833
+Clipam Logfile
+2019-10-31 17:27:57.889160
+Device Entry: 
+   Item      Part Number      Item Count  
+Cat5e-8P-IDCPANEL 125-0986 5
+Clipam Logfile
+2019-10-31 17:28:24.470739
+Device Entry: 
+   Item      Part Number      Item Count  
+SingleGang-LowV-Mountbox SKYLVB20 45
+Clipam Logfile
+2019-10-31 17:28:50.182572
+Device Entry: 
+   Item      Part Number      Item Count  
+SingleGang-Wallplate-Keystone 20225 120
+Clipam Logfile
+2019-10-31 17:29:27.844340
+Device Entry: 
+   Item      Part Number      Item Count  
+1RU-2-Slot-RM FMU-1UFMX-N 1
+Clipam Logfile
+2019-10-31 17:29:46.623711
+Device Entry: 
+   Item      Part Number      Item Count  
+1U-Splitter-1x2 PLC-102-1U-SCA 1
+Clipam Logfile
+2019-10-31 17:30:05.203400
+Device Entry: 
+   Item      Part Number      Item Count  
+1U-Splitter-1x4 PLC-U-1X4 2
+Clipam Logfile
+2019-10-31 17:30:23.801868
+Device Entry: 
+   Item      Part Number      Item Count  
+1U-Splitter-1x8 PLC-108-1U-SCA 2
+Clipam Logfile
+2019-10-31 17:30:35.228844
+Device Entry: 
+   Item      Part Number      Item Count  
+1U-Splitter-1x32 PLC-132-1U-SCA 2
+Clipam Logfile
+2019-10-31 17:31:05.966303
+Device Entry: 
+   Item      Part Number      Item Count  
+SC-APC-Adapter-10P 11895 78
+Clipam Logfile
+2019-10-31 17:31:27.381906
+Device Entry: 
+   Item      Part Number      Item Count  
+WallBracketKit 600-050024 18
+Clipam Logfile
+2019-10-31 17:32:10.468805
+Device Entry: 
+   Item      Part Number      Item Count  
+SOC-SCA-2MM-SF SRP-LAN-1468AEN 200
+Clipam Logfile
+2019-10-31 17:32:39.501742
+Device Entry: 
+   Item      Part Number      Item Count  
+SC-APC-8PC-BULK LGX-SCSX-8G 42
+Clipam Logfile
+2019-10-31 17:33:19.029282
+Device Entry: 
+   Item      Part Number      Item Count  
+Closet-50-2-FiberTray CSH-05U 1
+Clipam Logfile
+2019-10-31 17:33:47.499912
+Device Entry: 
+   Item      Part Number      Item Count  
+1-SpliceTray 80812504 200
+Clipam Logfile
+2019-10-31 17:34:15.030312
+Device Entry: 
+   Item      Part Number      Item Count  
+Tyco-B-Tray-12 898849-000 99
+Clipam Logfile
+2019-10-31 17:34:36.984402
+Device Entry: 
+   Item      Part Number      Item Count  
+FuseConnect-SC-SMF FUSE-SC3SMA-6 130
+Clipam Logfile
+2019-10-31 17:34:59.907675
+Device Entry: 
+   Item      Part Number      Item Count  
+KimtechKimwipes 34155 11
+Clipam Logfile
+2019-10-31 17:35:28.175768
+Device Entry: 
+   Item      Part Number      Item Count  
+ShieldBoardConnector3M 00054007712170 86
+Clipam Logfile
+2019-10-31 17:35:49.828752
+Device Entry: 
+   Item      Part Number      Item Count  
+DualStrenghtBracket 80809881 62
+Clipam Logfile
+2019-10-31 17:36:19.388820
+Device Entry: 
+   Item      Part Number      Item Count  
+Track-CON 9941212 12
+Clipam Logfile
+2019-10-31 17:37:06.347248
+Device Entry: 
+   Item      Part Number      Item Count  
+TrippLite-UPS SMART1000RMXL2U 3
+Clipam Logfile
+2019-10-31 17:37:38.326021
+Device Entry: 
+   Item      Part Number      Item Count  
+2U-FiberTray FHD-2UFCE 4
+Clipam Logfile
+2019-10-31 17:37:59.505208
+Device Entry: 
+   Item      Part Number      Item Count  
+1U-FiberTray FHD-1UFCE 4
+Clipam Logfile
+2019-10-31 17:40:01.162920
+Device Entry: 
+   Item      Part Number      Item Count  
+GuyClamp-3H-Angled N/A 30
+Clipam Logfile
+2019-10-31 17:40:32.495835
+Device Entry: 
+   Item      Part Number      Item Count  
+5/8x16 Machine Bolt N/A 13
+Clipam Logfile
+2019-10-31 17:40:56.969150
+Device Entry: 
+   Item      Part Number      Item Count  
+5/8x14 Machine Bolt N/A 35
+Clipam Logfile
+2019-10-31 17:41:16.723949
+Device Entry: 
+   Item      Part Number      Item Count  
+5/8x12 Machine Bolt N/A 15
+Clipam Logfile
+2019-10-31 17:41:30.031277
+Device Entry: 
+   Item      Part Number      Item Count  
+5/8x10 Machine Bolt N/A 157
+Clipam Logfile
+2019-10-31 17:42:10.325681
+Device Entry: 
+   Item      Part Number      Item Count  
+5/8x16 ThimbleEveBolt N/A 4
+Clipam Logfile
+2019-10-31 17:42:36.645909
+Device Entry: 
+   Item      Part Number      Item Count  
+5/8x8 Machine Bolt N/A 4
+Clipam Logfile
+2019-10-31 17:42:49.518714
+Device Entry: 
+   Item      Part Number      Item Count  
+5/8x14 ThimbleEveBolt N/A 18
+Clipam Logfile
+2019-10-31 17:43:18.873264
+Device Entry: 
+   Item      Part Number      Item Count  
+5x8x12 TEB N/A 29
+Clipam Logfile
+2019-10-31 17:43:35.155632
+Device Entry: 
+   Item      Part Number      Item Count  
+5x8x10 TEB N/A 32
+Clipam Logfile
+2019-10-31 17:44:04.347621
+Device Entry: 
+   Item      Part Number      Item Count  
+FlatAnchorGuide N/A 61
+Clipam Logfile
+2019-10-31 17:44:29.418872
+Clipam Logfile
+2019-10-31 17:44:37.402685
+Device Entry: 
+   Item      Part Number      Item Count  
+D Cable Lashing Clamp 600-1000029 215
+Clipam Logfile
+2019-10-31 17:46:36.428632
+Device Entry: 
+   Item      Part Number      Item Count  
+FiberSpliceTube-D 8675032 1
+Clipam Logfile
+2019-10-31 17:47:07.819640
+Device Entry: 
+   Item      Part Number      Item Count  
+FiberSpliceTube-D 8675032 2
+Clipam Logfile
+2019-10-31 18:17:40.336820
+Device Entry: 
+   Item      Part Number      Item Count  
+FOS-3-TMK 16" FOS-3-TMK 4
+Clipam Logfile
+2019-10-31 18:18:20.748853
+Device Entry: 
+   Item      Part Number      Item Count  
+Coyote DTC-80061361 20
+Clipam Logfile
+2019-10-31 18:18:53.949990
+Device Entry: 
+   Item      Part Number      Item Count  
+Grommet 80061352 20
+Clipam Logfile
+2019-10-31 18:19:19.309728
+Device Entry: 
+   Item      Part Number      Item Count  
+GommetKit 8003664 49
+Clipam Logfile
+2019-10-31 18:19:43.255145
+Device Entry: 
+   Item      Part Number      Item Count  
+GrommetKit-12H 8003796 56
+Clipam Logfile
+2019-10-31 18:20:13.524374
+Device Entry: 
+   Item      Part Number      Item Count  
+SnakePit-TraaerBox N/A 20
+Clipam Logfile
+2019-10-31 18:20:35.821011
+Device Entry: 
+   Item      Part Number      Item Count  
+2-H-GrommetKit ForCoyote 150
+Clipam Logfile
+2019-10-31 18:21:00.986661
+Device Entry: 
+   Item      Part Number      Item Count  
+Fibox AR1086CH55L 2
+FiberInventory Logfile
+2019-11-01 11:02:59.922427
+Directory Creation Has Failed For Directory: /data 
+Building Database: invdb.sql @: /data/ 

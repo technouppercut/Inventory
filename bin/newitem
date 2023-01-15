@@ -1,0 +1,86 @@
+#!/usr/bin/python3
+
+import sys
+import os
+import inspect
+import datetime
+#from easySqlite3 import Db
+
+sys.path.insert(1, os.path.join(sys.path[0], '..'))
+import config
+
+currentdir = os.path.dirname(os.path.abspath(inspect.getfile(inspect.currentframe())))
+parentdir = os.path.dirname(currentdir)
+
+from easySqlite3 import Db
+#VARS############################
+now = datetime.datetime.now()
+#Open Logfile
+logfile = open(parentdir + 'applog.txt', 'a')
+sys.stdout = logfile
+dbfile=('/home/shildenbrand/Inventory/data/invdb.sql')
+#################################
+def additem():
+
+    print("Inventory Logfile")
+    print(now)
+
+
+
+
+
+    TABLE = '''
+            CREATE TABLE IF NOT EXISTS inventory(
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            Item TEXT NOT NULL,
+            PartNumber TEXT NOT NULL,
+            Quantity TEXT NOT NULL,
+            Location TEXT NULL,
+            Manufacturer TEXT
+            );
+            '''
+
+    DATA_BASE_PATH = dbfile
+    #db = 'data/ipdb.sql'
+    INSERT_QUERY = 'INSERT INTO inventory(Item, PartNumber, Quantity, Location, Manufacturer) VALUES (?, ?, ?, ?, ?)'
+
+
+    # start an data base object
+    db = Db(DATA_BASE_PATH)
+
+    # connect to the data base
+    db.connect()
+
+    # create the table
+    db.createTable(TABLE)
+
+    # prepare query
+    db.prepareQuery(INSERT_QUERY)
+
+    #        print('Clipam Help Menu')
+    #        print("clipam <ip addr> <netmask> <hostname> <comment>")
+    #        print("clipam 1.1.1.1 255.255.255.0 giga.ios.devicename CoreRouter")
+
+    inv_item = sys.argv[1]
+    inv_part = sys.argv[2]
+    inv_count = sys.argv[3]
+    inv_locate = sys.argv[4]
+    inv_manufac = sys.argv[5]
+
+    print("Device Entry: ")
+    print("   Item      Part Number      Item Count  ")
+    print(inv_item + ' ' + inv_part + ' ' + inv_count)
+
+
+    # insert into table
+    db.insertRow([inv_item, inv_part, inv_count, inv_locate, inv_manufac])
+
+    # closing connection
+    db.close()
+
+
+
+    logfile.close()
+
+if __name__ == '__main__':
+    additem()
